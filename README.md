@@ -24,6 +24,14 @@ Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 
 ## PMTiles Extract maken van Wageningen
 
+> [!TIP]
+> Het is handig als je de bbox van Wageningen weet. Er zijn veel wegen die naar Rome leiden. Ik heb de [OSM relatie](https://www.openstreetmap.org/relation/418758) opgezocht en de volgende Overpass query gebruikt (volgende workshop!).
+> ```
+> [out:json];
+> rel(334228);
+> out bb;
+> ```
+
 1. De PMTiles CLI is al geïnstalleerd in je ontwikelomgeving.
 2. Zoek de URL van de meest recente PMTiles planet basemap. https://docs.protomaps.com/basemaps/downloads
 3. Zoek uit wat de bbox van Wageningen is.
@@ -33,14 +41,6 @@ Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 <img width="1483" alt="image" src="https://github.com/user-attachments/assets/47b1667a-bb28-48bf-8b01-e99a9c2cc1d8#gh-light-mode-only" />
 
 <img width="1483" alt="image" src="https://github.com/user-attachments/assets/a6e697c7-038f-4840-98f2-936c27f7faad#gh-dark-mode-only" />
-
-Tip: het is handig als je de bbox van Wageningen weet. Er zijn veel wegen die naar Rome leiden. Ik heb de [OSM relatie](https://www.openstreetmap.org/relation/418758) opgezocht en de volgende Overpass query gebruikt (volgende workshop!).
-
-```
-[out:json];
-rel(334228);
-out bb;
-```
 
 ---
 
