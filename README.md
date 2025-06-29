@@ -30,6 +30,10 @@ Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 4. Gebruik `pmtiles extract ...` in de command line om `wageningen.pmtiles` te maken.
 5. Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om te controleren of het extracten gelukt is. Check ook `pmtiles show wageningen.pmtiles`.
 
+<img width="1483" alt="image" src="https://github.com/user-attachments/assets/47b1667a-bb28-48bf-8b01-e99a9c2cc1d8#gh-light-mode-only" />
+
+<img width="1483" alt="image" src="https://github.com/user-attachments/assets/a6e697c7-038f-4840-98f2-936c27f7faad#gh-dark-mode-only" />
+
 ---
 
 <details>
