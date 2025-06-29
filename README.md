@@ -97,7 +97,7 @@ Nu start een web server op poort 8000. Als het goed is krijg je een popup, klik 
 
 Als het goed is zie je nu een lijst bestanden.
 
-![Directory listing for /](image.png)
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/c045be80-5268-48b6-bdb1-17921d411706" />
 
 Maak nu een `index.html` bestand:
 
@@ -131,7 +131,7 @@ Open de developer console in je browser. Waar dit precies moet verschilt per bro
 
 Als je dit ziet, dan heb je succesvol je web development omgeving opgezet!
 
-![Ook hallo wereld vanaf Javascript!](image-1.png)
+<img width="988" alt="image" src="https://github.com/user-attachments/assets/cddcb40a-1c7b-4953-a9f9-a5e7cce37923" />
 
 Nu ben je klaar op MapLibre GL JS toe te voegen aan je website. Maar eerst nog wat anders...
 
