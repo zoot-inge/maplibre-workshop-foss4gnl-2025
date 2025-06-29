@@ -13,5 +13,28 @@ https://talks.osgeo.org/foss4gnl-2025/talk/8PVQLR/
 
 We gaan een simpele kaart maken met een wandelroute.
 
+## PMTiles Extract maken van Wageningen
 
+1. Download en installeer de PMTiles CLI tool.
+2. 
 
+---
+
+<details>
+  <summary>Bekijk antwoord</summary>
+
+```
+  "bounds": {
+    "minlat": 51.9364055,
+    "minlon": 5.6058239,
+    "maxlat": 52.0007083,
+    "maxlon": 5.7243627
+  },
+```
+
+```
+pmtiles extract https://build.protomaps.com/<LATEST_PLANET_FILE>.pmtiles wageningen.pmtiles --minzoom=10 --maxzoom=16 --bbox=5.6058239,38.934310,-76.956482,39.254056
+```
+</details>
+
+## Wandelroute GeoJSON
