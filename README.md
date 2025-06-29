@@ -16,7 +16,9 @@ We gaan een simpele kaart maken met een wandelroute.
 ## PMTiles Extract maken van Wageningen
 
 1. Download en installeer de PMTiles CLI tool.
-2. 
+2. Zoek de URL van de meest recente PMTiles planet basemap. https://docs.protomaps.com/basemaps/downloads
+3. Zoek uit wat de bbox van Wageningen is.
+4. Gebruik `pmtiles extract ...` in de command line om `wageningen.pmtiles` te maken.
 
 ---
 
