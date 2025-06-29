@@ -34,6 +34,14 @@ Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 
 <img width="1483" alt="image" src="https://github.com/user-attachments/assets/a6e697c7-038f-4840-98f2-936c27f7faad#gh-dark-mode-only" />
 
+Tip: het is handig als je de bbox van Wageningen weet. Er zijn veel wegen die naar Rome leiden. Ik heb de [OSM relatie](https://www.openstreetmap.org/relation/418758) opgezocht en de volgende Overpass query gebruikt (volgende workshop!).
+
+```
+[out:json];
+rel(334228);
+out bb;
+```
+
 ---
 
 <details>
