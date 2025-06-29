@@ -19,6 +19,7 @@ We gaan een simpele kaart maken met een wandelroute.
 2. Zoek de URL van de meest recente PMTiles planet basemap. https://docs.protomaps.com/basemaps/downloads
 3. Zoek uit wat de bbox van Wageningen is.
 4. Gebruik `pmtiles extract ...` in de command line om `wageningen.pmtiles` te maken.
+5. Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om te controleren of het extracten gelukt is. Check ook `pmtiles show wageningen.pmtiles`.
 
 ---
 
@@ -35,7 +36,7 @@ We gaan een simpele kaart maken met een wandelroute.
 ```
 
 ```
-pmtiles extract https://build.protomaps.com/<LATEST_PLANET_FILE>.pmtiles wageningen.pmtiles --minzoom=10 --maxzoom=16 --bbox=5.6058239,38.934310,-76.956482,39.254056
+pmtiles extract https://build.protomaps.com/20250629.pmtiles wageningen.pmtiles --minzoom=10 --maxzoom=16 --bbox=5.6058239,51.9364055,5.7243627,52.0007083
 ```
 </details>
 
