@@ -31,12 +31,17 @@ Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 > rel(334228);
 > out bb;
 > ```
-
-1. De PMTiles CLI is al geïnstalleerd in je ontwikelomgeving.
-2. Zoek de URL van de meest recente PMTiles planet basemap. https://docs.protomaps.com/basemaps/downloads
-3. Zoek uit wat de bbox van Wageningen is.
-4. Gebruik `pmtiles extract ...` in de command line om `wageningen.pmtiles` te maken.
-5. Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om te controleren of het extracten gelukt is. Check ook `pmtiles show wageningen.pmtiles`.
+>
+> Of ga naar de website http://bboxfinder.com/ (er is geen https), zoom naar Wageningen, klik het vierkant icoon, teken een bbox
+> en kopieër deze in de "lon,lat,lon,lat" volgorde.
+>
+1. De PMTiles CLI, het programma `pmtiles`, is al geïnstalleerd in je ontwikkelomgeving.
+2. Doe `pmtiles --help` om de verschillende commando's te zien.
+3. Zoek de URL van de meest recente PMTiles planet basemap. https://docs.protomaps.com/basemaps/downloads
+4. Zoek uit wat de bbox van Wageningen is. 
+5. Gebruik `pmtiles extract <PMTiles URL> wageningen.pmtiles --bbox=...` in de command line om `wageningen.pmtiles` te maken.
+6. Het bestand zal (linksboven) te zien zijn. Check met `ls -lh wageningen.pmtiles` en ` pmtiles show wageningen.pmtiles`.
+7. Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om te controleren of het extracten gelukt is. Daartoe moet je het bestand (paar MB) even downloaden naar je computer: rechtermuis op bestand, dan `Download...`.
 
 <img width="1483" alt="image" src="https://github.com/user-attachments/assets/47b1667a-bb28-48bf-8b01-e99a9c2cc1d8#gh-light-mode-only" />
 
@@ -73,7 +78,7 @@ Maak een nieuwe directory:
 mkdir assets
 ```
 
-Plaats het `wanderling.geojson` document dat je in de vorige stap hebt gemaakt in die directory.
+Plaats het `wandeling.geojson` document dat je in de vorige stap hebt gemaakt in die directory.
 
 MapLibre heeft naast (vector)data verder nog nodig:
 
