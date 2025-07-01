@@ -61,8 +61,8 @@ Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om 
 Gebruik de UI of de commandline (altijd sneller!):
 
 ```
-# Keer terug naar je 'home' directory
-cd
+# Keer terug naar je 'home' directory vanuit assets
+cd ..
 
 # 'Stage' het bestand
 git add assets/wageningen.pmtiles
