@@ -25,6 +25,7 @@ Zorg ervoor dat je een deel hebt afgerond voordat je naar het volgende gaat.
 - [Deel 2: Website Deployen](./deel_02.md).
 - [Deel 3: PMTiles Extract maken van Wageningen](./deel_03.md).
 - [Deel 4: GeoJSON wandelroute rond Wageningen voorbereiden](./deel_04.md).
+- [Deel 5: PMTiles laden met MapLibre GL JS](./deel_05.md).
 
 ## Assets voorbereiden
 
