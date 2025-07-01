@@ -11,4 +11,4 @@ De opties zijn eindeloos voor het verder afwerken van de kaart!
 
 ---
 
-- [ ] Voeg verschillende een 'control' voor [inzoomen/uitzoomen en een kompas](https://maplibre.org/maplibre-gl-js/docs/examples/navigation/) toe aan de kaart.
+- [ ] Voeg verschillende een [control](https://maplibre.org/maplibre-gl-js/docs/examples/navigation/) toe aan de kaart.
