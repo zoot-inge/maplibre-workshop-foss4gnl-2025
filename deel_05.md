@@ -51,5 +51,8 @@ const map = new maplibregl.Map({
 
 Omdat je in deel 2 je repository als website hebt gedeployed staat deze meteen online zodra je je wijzigingen hebt gepushed.
 
+---
+
+- [ ] Ga naar de URL van de GitHub Pages site om te checken of het ook correct gedeployed is.
 
 <img width="1423" alt="image" src="https://github.com/user-attachments/assets/e3e1067c-46b0-4f67-a875-1e620b7c79c7" />
