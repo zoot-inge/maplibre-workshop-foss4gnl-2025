@@ -128,7 +128,7 @@ We voegen nu nog wat CSS toe aan de pagina, MapLibre wordt gebundeld met wat CSS
     margin: 0;
   }
 
-  #map {
+  #mijnkaart {
     width: 100vw;
     height: 100vh;
   }
