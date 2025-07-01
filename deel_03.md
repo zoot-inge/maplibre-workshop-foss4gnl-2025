@@ -83,6 +83,6 @@ Klik op 'fit bounds'. Als het goed is zie je nu het volgende:
 
 ---
 
-- [ ] Sla de Protomaps basemap style in je repo.
+- [ ] Bewaar de Protomaps Light MapLibre stijl in je repo.
 
 Klik nu op "Get style JSON", kopiëer de de MapLibre stijl van Protomaps Light en sla deze op als `assets/style.json`. We gaan deze in Deel 5 gebruiken. Vergeet niet een commit te maken!
