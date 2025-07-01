@@ -1,4 +1,4 @@
-# Extra 2: Protomaps Assets Toevoegen
+# Extra 2: Protomaps Assets Zelf Hosten
 
 MapLibre heeft naast (vector)data verder nog nodig:
 
