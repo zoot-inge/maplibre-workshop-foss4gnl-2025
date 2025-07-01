@@ -16,6 +16,7 @@ Maak een `jsconfig.json` bestand:
 ```json
 {
   "compilerOptions": {
+    "checkJS": true,
     "module": "esnext",
     "target": "esnext",
     "paths": {
