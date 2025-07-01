@@ -15,12 +15,14 @@ We gaan een simpele kaart maken met een wandelroute.
 
 Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 
-## Fork the repository en start de ontwikkelomgeving
+## Delen
 
-1. Ga naar https://github.com/louwers/maplibre-workshop-foss4gnl-2025
-2. Klik op Fork.
-3. In je eigen fork, ga naar "Code", klik op de "Codespaces" tab en start een "GitHub CodeSpace".
-4. Open de Terminal...
+Om het overzicht te bewaren hebben we de workshop opgedeeld in verschillende delen.
+
+Zorg ervoor dat je een deel hebt afgerond voordat je naar het volgende gaat.
+
+- [Deel 1: Ontwikkelomgeving opzetten](./deel_01.md).
+- [Deel 2: Website Deployen](./deel_02.md).
 
 ## PMTiles Extract maken van Wageningen
 
