@@ -28,3 +28,8 @@ Zorg ervoor dat je een deel hebt afgerond voordat je naar het volgende gaat.
 - [Deel 5: PMTiles laden met MapLibre GL JS](./deel_05.md).
 - [Deel 6: Wandeling toevoegen aan de kaart](./deel_06.md).
 - [Deel 7: De kaart afmaken](./deel_07.md).
+
+Extra delen voor als er genoeg tijd is:
+
+- [Extra 1: TypeScript gebruiken](./typescript.md)
+- [Extra 2: Protomaps Assets Zelf Hosten](./assets.md)
