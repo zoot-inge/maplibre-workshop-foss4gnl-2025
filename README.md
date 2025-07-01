@@ -27,6 +27,7 @@ Zorg ervoor dat je een deel hebt afgerond voordat je naar het volgende gaat.
 - [Deel 4: GeoJSON wandelroute rond Wageningen voorbereiden](./deel_04.md).
 - [Deel 5: PMTiles laden met MapLibre GL JS](./deel_05.md).
 - [Deel 6: Wandeling toevoegen aan de kaart](./deel_06.md).
+- [Deel 7: De kaart afmaken](./deel_07.md).
 
 ## Stijl Downloaden en voorbereiden
 
