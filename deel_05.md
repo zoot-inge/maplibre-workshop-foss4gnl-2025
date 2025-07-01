@@ -44,3 +44,12 @@ const map = new maplibregl.Map({
 });
 ```
 </details>
+
+---
+
+- [ ] Controleer met de web server of alles werkt. Zo ja, maak een commit met je wijzigingen.
+
+Omdat je in deel 2 je repository als website hebt gedeployed staat deze meteen online zodra je je wijzigingen hebt gepushed.
+
+
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/e3e1067c-46b0-4f67-a875-1e620b7c79c7" />
