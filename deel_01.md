@@ -146,7 +146,7 @@ Als het goed is zie je nu het volgende eindresultaat
 
 ---
 
-- [ ] Zorg dat je `index.html` en `main.js` commit. Je kan hiervoor `git` in de command line gebruiken of de UI.
+- [ ] Zorg dat je `index.html` en `main.js` commit en pushed naar de repo. Je kan hiervoor `git` in de command line gebruiken of de UI.
 
 https://github.com/user-attachments/assets/79d99706-0daf-4c27-98e9-39bd2f4bbd26
 
