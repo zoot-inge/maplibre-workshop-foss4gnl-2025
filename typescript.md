@@ -34,3 +34,11 @@ Installeer the TypeScript plugin:
 Vervolgens kan je gebruik maken van auto-completion dankzij TypeScript:
 
 <img width="541" alt="Screenshot 2025-07-01 at 19 41 08" src="https://github.com/user-attachments/assets/70b29e98-8340-4dc7-abbb-c72c4fcdfb72" />
+
+Tot slot is het handig om een `.gitignore` bestand aan te maken met
+
+```
+node_modules
+```
+
+Zodat je de geïnstalleerde npm packages niet per ongeluk toevoegd aan je repository.
