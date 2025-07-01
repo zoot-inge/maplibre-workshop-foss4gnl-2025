@@ -140,3 +140,7 @@ We voegen nu nog wat CSS toe aan de pagina, MapLibre wordt gebundeld met wat CSS
 Als het goed is zie je nu het volgende eindresultaat
 
 <img width="1296" alt="image" src="https://github.com/user-attachments/assets/ed301d95-2f55-4617-a525-a51b25b7fa7e" />
+
+> [!TIP]
+> Voor de enthausiastelingen, probeer een stijl van [OpenFreeMap](https://openfreemap.org/quick_start/).
+
