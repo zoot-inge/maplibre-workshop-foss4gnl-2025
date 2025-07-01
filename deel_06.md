@@ -2,7 +2,7 @@
 
 Voor dit deel vind je hier een expliciete instructies.
 
-Maak in plaats daarvan gebruik van de [MapLibre GL JS documentatie](https://maplibre.org/maplibre-gl-js/docs/) en de [MapLibre Style Spec documentatie](https://maplibre.org/maplibre-style-spec/)/
+Maak in plaats daarvan gebruik van de [MapLibre GL JS documentatie](https://maplibre.org/maplibre-gl-js/docs/) en de [MapLibre Style Spec documentatie](https://maplibre.org/maplibre-style-spec/).
 
 ---
 
