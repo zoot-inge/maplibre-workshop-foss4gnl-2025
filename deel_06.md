@@ -11,4 +11,3 @@ Maak in plaats daarvan gebruik van de [MapLibre GL JS documentatie](https://mapl
 > [!TIP]
 > Zoek in de [MapLibre Style Spec documentatie](https://maplibre.org/maplibre-style-spec/) op welke opties er allemaal zijn voor line layers.
 
----
