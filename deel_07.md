@@ -1,6 +1,11 @@
 # Deel 7: De kaart afmaken
 
-- Controls toevoegen
-- Maximale bounds toevoegen
-- Minimale en maximale zoom installen
-- ???
+De opties zijn eindeloos voor het verder afwerken van de kaart!
+
+---
+
+- [ ] Stel maximale bounds in zodat de gebruiker de kaart niet buiten Wageningen kan bewegen. Voeg ook een minimaal en maximaal zoomniveau toe.
+
+---
+
+- [ ] Voeg verschillende een 'control' voor [inzoomen/uitzoomen en een kompas](https://maplibre.org/maplibre-gl-js/docs/examples/navigation/) toe aan de kaart.
