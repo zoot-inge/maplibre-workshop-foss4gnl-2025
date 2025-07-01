@@ -36,9 +36,10 @@ Je kunt ook de website http://bboxfinder.com/ gebruiken (er is geen https), zoom
 
 ---
 
-- [ ] Ga naar de assets directory in the terminal en maak `wageningen.pmtiles`:
+- [ ] In de terminal: maak een directory 'assets' en ga daarin. Maak vervolgens daar het bestand `wageningen.pmtiles`:
 
 ```
+mkdir assets
 cd assets
 pmtiles extract <laatste PMTiles URL> wageningen.pmtiles --minzoom=10 --maxzoom=16 --bbox=<antwoord van stap 1>
 ```
@@ -57,15 +58,23 @@ Drag and drop je PMTiles-bestand in de [PMTiles Viewer](https://pmtiles.io/) om 
 
 - [ ] Maak een commit met `wageningen.pmtiles` en push het bestand naar je fork.
 
-Gebruik de UI of de command line:
+Gebruik de UI of de commandline (altijd sneller!):
 
 ```
+# Keer terug naar je 'home' directory
+cd
+
+# 'Stage' het bestand
 git add assets/wageningen.pmtiles
+
+# 'Commit' het bestand met commentaar (-m)
 git commit -m "Add wageningen.pmtiles"
+
+# 'Push' het bestand
 git push
 ```
 
-Zodra het bestand is gepushed zou het online moeten zijn, omdat je je GitHub repository als website hebt gepubliceerd in deel 2.
+Zodra het bestand is gepushed zou het online moeten zijn, omdat je je GitHub repository als website hebt gepubliceerd in deel 2. Dat kan soms even duren. 
 
 ---
 
@@ -83,6 +92,6 @@ Klik op 'fit bounds'. Als het goed is zie je nu het volgende:
 
 ---
 
-- [ ] Bewaar de Protomaps Light MapLibre stijl in je repo.
+- [ ] Sla de Protomaps basemap style in je repo.
 
 Klik nu op "Get style JSON", kopiëer de de MapLibre stijl van Protomaps Light en sla deze op als `assets/style.json`. We gaan deze in Deel 5 gebruiken. Vergeet niet een commit te maken!
