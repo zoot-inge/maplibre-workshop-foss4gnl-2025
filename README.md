@@ -11,7 +11,7 @@
 
 https://talks.osgeo.org/foss4gnl-2025/talk/8PVQLR/
 
-We gaan een simpele kaart maken met een wandelroute.
+We gaan een simpele self-hosted kaart maken met een wandelroute.
 
 Eindresultaat: https://louwers.github.io/maplibre-workshop-foss4gnl-2025/
 
