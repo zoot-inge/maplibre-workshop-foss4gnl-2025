@@ -49,8 +49,9 @@ $ git add wandeling.geojson
 $ git commit -m "Add wandeling.geojson"
 $ git push
 ```
-14. Tip: GitHub kan ook GeoJSON weergeven. Bekijk het bestand op een achtergrondkaart via: 
 
-`https://github.com/<je github naam>/maplibre-workshop-foss4gnl-2025/blob/main/assets/wandeling.geojson`
+ > [!TIP]
+>  Tip: GitHub kan ook GeoJSON weergeven. Bekijk het bestand op een achtergrondkaart via `https://github.com/<je github naam>/maplibre-workshop-foss4gnl-2025/blob/main/assets/wandeling.geojson`
+
 
 
