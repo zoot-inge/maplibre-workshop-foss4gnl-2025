@@ -81,3 +81,8 @@ Klik op 'fit bounds'. Als het goed is zie je nu het volgende:
 
 <img width="1378" alt="image" src="https://github.com/user-attachments/assets/a6b10049-f4af-4eb3-9626-7408222d8257" />
 
+---
+
+- [ ] Sla de Protomaps basemap style in je repo.
+
+Klik nu op "Get style JSON", kopiëer de de MapLibre stijl van Protomaps Light en sla deze op als `assets/style.json`. We gaan deze in Deel 5 gebruiken.
