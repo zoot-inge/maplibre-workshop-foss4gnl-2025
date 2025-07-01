@@ -46,5 +46,5 @@ In `<RELATIE_NUMMER>` vul je het route OSM Relation nummer in. Klik op `Run` but
 13. 'Push' dit bestand net als eerder de PMTiles naar je geforkte repo: 
 ```
 $ git add wandeling.geojson
-$ git commit -m .... etc
+$ git commit -m "Add wandeling.geojson"
 ```
