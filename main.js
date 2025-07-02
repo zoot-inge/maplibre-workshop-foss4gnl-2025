@@ -7,7 +7,7 @@ const map = new maplibregl.Map({
     //center: [0, 0], // starting position [lng, lat]
     //zoom: 1 // starting zoom
     style: './assets/style.json',
-    center: [51.96857, 5.66509], // starting position [lng, lat]
+    center: [5.66509,51.96857], // starting position [lng, lat]
     zoom: 13 // starting zoom
 });
 
